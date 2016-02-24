@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/shenhd/workspace/develop/hx-sso/app/Console'
+let g:netrw_dirhist_2='/home/shenhd/workspace/develop/framework/.git'
+let g:netrw_dirhist_3='/home/shenhd/workspace/develop/hxdev/wukong/application'
